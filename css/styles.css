@@ -60,13 +60,34 @@ textarea::placeholder{
 }
 
  #parone{
-     display: none
+     display: none;
  }
+ #partwo{
+    display: none;
+}
+#parthree{
+    display: none;
+}
+#parfour{
+    display: none;
+}
+#parfive{
+    display: none;
+}
+#parsix{
+    display: none;
+}
+#parsev{
+    display: none;
+}
+#pareight{
+    display: none;
+}
   .hide{
       color: black;
-      margin-top: 90px;
-  }
+      margin-top: -100px;
+  } 
 
 .col-3 :hover{
-    background-color: white;
+    background: white;
 }
