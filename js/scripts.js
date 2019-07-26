@@ -164,14 +164,6 @@ $(document).ready(function() {
 
 // $(".paragraph8").hide();
 
-// $(".photo8").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph8").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:1},500);
-// $(".paragraph8").fadeOut();
-// });
-
   });
 
  
