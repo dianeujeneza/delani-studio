@@ -102,7 +102,7 @@ $(document).ready(function() {
         $("#parsev").hide();
     });
 
-    var$("#imgeight").mouseover(function(){
+    $("#imgeight").mouseover(function(){
         $("#imgeight").css('opacity','0.4');
         $("#pareight").show();
         $("#pareight").addClass("hide");
