@@ -4,6 +4,10 @@ body{
 }
 div#up-up{
     padding: 300px 0px 100px 0px;
+    margin-top: -100px;
+}
+div.down-down{
+    padding: 0px 50px 0px 50px;
 }
 #hiddenone{
     display: none;
@@ -13,6 +17,13 @@ div#up-up{
 }
 #hiddenthree{
     display: none;
+}
+.ttt{
+    width: 300px;
+}
+#comment{
+    width: 620px;
+    margin-left: 180px;
 }
 
 .portfolio{
@@ -91,7 +102,9 @@ textarea::placeholder{
     color: black;
     margin-top: -100px;
 } 
-
+.btn{
+    margin-left: auto;
+}
 .form-control ::placeholder
 {
     color: white;

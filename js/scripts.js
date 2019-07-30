@@ -18,12 +18,12 @@ $(document).ready(function() {
     $("#two").click(function() {
         $("#showtwo").toggle();
         $("#hiddentwo").toggle();
-      });
+    });
 
-      $("#three").click(function() {
+    $("#three").click(function() {
         $("#showthree").toggle();
         $("#hiddenthree").toggle();
-      });
+    });
 
     $("#imgone").mouseover(function(){
         $("#imgone").css('opacity','0.4');
