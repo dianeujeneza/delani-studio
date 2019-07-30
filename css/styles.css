@@ -92,9 +92,6 @@ textarea::placeholder{
       margin-top: -100px;
   } 
 
-/* .col-3 :hover{
-    background: white;
-} */
 .form-control ::placeholder
 {
     color: white;
