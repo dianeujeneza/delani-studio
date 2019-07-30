@@ -88,10 +88,14 @@ textarea::placeholder{
     display: none;
 }
   .hide{
-      color: black;
+      color:solid black;
       margin-top: -100px;
   } 
 
-.col-3 :hover{
+/* .col-3 :hover{
     background: white;
+} */
+.form-control ::placeholder
+{
+    color: white;
 }

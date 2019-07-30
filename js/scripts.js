@@ -26,143 +26,92 @@ $(document).ready(function() {
       });
 
     $("#imgone").mouseover(function(){
+        $("#imgone").css('opacity','0.4');
         $("#parone").show();
         $("#parone").addClass("hide");
     });
 
     $("#imgone").mouseleave(function(){
+        $("#imgone").css('opacity','1');
         $("#parone").hide();
     });
 
     $("#imgtwo").mouseover(function(){
+        $("#imgtwo").css('opacity','0.4');
         $("#partwo").show();
         $("#partwo").addClass("hide");
     });
 
     $("#imgtwo").mouseleave(function(){
+        $("#imgtwo").css('opacity','1');
         $("#partwo").hide();
     });
 
     $("#imgthree").mouseover(function(){
+        $("#imgthree").css('opacity','0.4');
         $("#parthree").show();
         $("#parthree").addClass("hide");
     });
 
     $("#imgthree").mouseleave(function(){
+        $("#imgthree").css('opacity','1');
         $("#parthree").hide();
     });
 
     $("#imgfour").mouseover(function(){
+        $("#imgfour").css('opacity','0.4');
         $("#parfour").show();
         $("#parfour").addClass("hide");
     });
 
     $("#imgfour").mouseleave(function(){
+        $("#imgfour").css('opacity','1');
         $("#parfour").hide();
     });
 
     $("#imgfive").mouseover(function(){
+        $("#imgfive").css('opacity','0.4');
         $("#parfive").show();
         $("#parfive").addClass("hide");
     });
 
     $("#imgfive").mouseleave(function(){
+        $("#imgfive").css('opacity','1');
         $("#parfive").hide();
     });
 
     $("#imgsix").mouseover(function(){
+        $("#imgsix").css('opacity','0.4');
         $("#parsix").show();
         $("#parsix").addClass("hide");
     });
 
     $("#imgsix").mouseleave(function(){
+        $("#imgsix").css('opacity','1');
         $("#parsix").hide();
     });
 
     $("#imgsev").mouseover(function(){
+        $("#imgsev").css('opacity','0.4');
         $("#parsev").show();
         $("#parsev").addClass("hide");
     });
 
     $("#imgsev").mouseleave(function(){
+        $("#imgsev").css('opacity','1');
         $("#parsev").hide();
     });
 
     var$("#imgeight").mouseover(function(){
+        $("#imgeight").css('opacity','0.4');
         $("#pareight").show();
         $("#pareight").addClass("hide");
     });
 
     $("#imgeight").mouseleave(function(){
+        $("#imgeight").css('opacity','1');
         $("#pareight").hide();
     });
-
-
-// $(".parone").hide();
-
-// $(".imgone").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".parone").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".parone").fadeOut();
-// });
-
-// $(".paragraph3").hide();
-// $(".photo3").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph3").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph3").fadeOut();
-// });
-
-// $(".paragraph2").hide();
-// $(".photo2").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph2").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph2").fadeOut();
-// });
-
-// $(".paragraph1").hide();
-// $(".photo1").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph1").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph1").fadeOut();
-// });
-
-// $(".paragraph5").hide();
-// $(".photo5").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph5").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph5").fadeOut();
-// });
-
-// $(".paragraph6").hide();
-// $(".photo6").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph6").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph6").fadeOut();
-// });
-
-// $(".paragraph7").hide();
-// $(".photo7").hover(function(){
-// $(this).stop().animate({opacity:.2},200);
-// $(".paragraph7").fadeIn();
-// },function(){
-// $(this).stop().animate({opacity:2},500);
-// $(".paragraph7").fadeOut();
-// });
-
-// $(".paragraph8").hide();
 
   });
 
